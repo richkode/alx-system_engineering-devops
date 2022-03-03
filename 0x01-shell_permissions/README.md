@@ -3,3 +3,4 @@
 2-groups    - prints all groups user is a part of
 3-new_owner - change owner of file hello to betty
 4-empty     - create empty file called hello
+5-execute   - adds execute permission to the owner of hello file
